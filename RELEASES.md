@@ -2,6 +2,8 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
+Current stable release: **v2.0.62 — About Experience Refinements**
+
 ## Release contract
 
 Every supported release uses all of the following:
