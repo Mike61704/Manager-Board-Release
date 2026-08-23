@@ -18,8 +18,13 @@ Manager Board brings everyday manager workflows together:
 - 📊 **Projects and reporting** — projects, tasks, progress, exports, portfolio summaries, and optional Workfront connectivity
 - 🗂️ **Records and continuity** — files, archive tools, validated backups, restore points, and protected recovery
 - 🤖 **Optional Local AI** — private, on-device assistance with a separately managed compatible model; Manager Board works normally without it
+- ❓ **Built-in Help** — always-available offline guidance that opens to the screen or workflow you are using, with optional Local AI grounding for more conversational answers
 
 The application is designed to be organization-agnostic. Organizational names, teams, groups, forms, and connection details are configured by each licensed manager.
+
+## Help that works offline
+
+Manager Board v2.1.0 includes one context-aware Help window and 57 reviewed topics covering startup, daily modules, Settings, 1:1s, Employee Plans, and nested workflows. Help is installed with the application, works without Local AI or an internet connection, and never needs access to workspace or vault data. If optional Local AI is configured, it can use the approved Help library to answer product questions naturally; the separate Chat experience remains under the manager's control.
 
 ## Local-first by design
 
