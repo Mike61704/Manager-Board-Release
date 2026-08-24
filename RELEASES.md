@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.1.1 — A Guided First Start**
+Current stable release: **v2.1.2 — Clearer Diagnostics**
 
 ## Release contract
 
