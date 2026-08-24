@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.2.1 — Workfront Scope Compatibility**
+Current stable release: **v2.2.2 — Manager 1:1 and Local AI Polish**
 
 ## Release contract
 
