@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.1.0 — Help and Guided Local AI**
+Current stable release: **v2.1.1 — A Guided First Start**
 
 ## Release contract
 
