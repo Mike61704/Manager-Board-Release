@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.1.2 — Clearer Diagnostics**
+Current stable release: **v2.2.0 — Manager 1:1 Center**
 
 ## Release contract
 
