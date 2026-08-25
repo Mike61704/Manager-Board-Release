@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.2.2 — Manager 1:1 and Local AI Polish**
+Current stable release: **v2.2.3 — Manager 1:1 History Corrections**
 
 ## Release contract
 
