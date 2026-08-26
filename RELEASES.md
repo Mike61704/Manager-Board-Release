@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.3.1 — Windows Runtime Compatibility**
+Current stable release: **v2.3.2 — Project Publishing Visibility**
 
 ## Release contract
 
