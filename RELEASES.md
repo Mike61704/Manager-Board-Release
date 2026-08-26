@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.2.5 — Daily Work Scoring Reliability**
+Current stable release: **v2.3.0 — Public Support and Recovery Reliability**
 
 ## Release contract
 
