@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security or sensitive issue
+    url: https://github.com/Mike61704/Manager-Board-Release/blob/main/SECURITY.md
+    about: Do not post security concerns or sensitive Manager Board data publicly. Review the private reporting guidance first.
+  - name: Downloads and release notes
+    url: https://github.com/Mike61704/Manager-Board-Release/releases
+    about: Download signed installers and review the latest Manager Board release notes.
