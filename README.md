@@ -4,9 +4,9 @@
 
 Manager Board is a local-first Windows desktop application built for managers who want their working context in one focused place—not scattered across notes, spreadsheets, dashboards, and browser tabs.
 
-[Download the latest release](https://github.com/Mike61704/Manager-Board-Release/releases/latest) · [What’s included](#what-manager-board-does) · [Activation](#offline-activation) · [Updates](#secure-application-updates)
+[Download the latest release](https://github.com/Mike61704/Manager-Board-Release/releases/latest) · [What’s included](#what-manager-board-does) · [Activation](#offline-activation) · [Updates](#secure-application-updates) · [Support / Report an issue](https://github.com/Mike61704/Manager-Board-Release/issues)
 
-> Manager Board keeps its source code private. This public repository is the official home for product information and signed Windows installer releases.
+> Manager Board keeps its source code private. This public repository is the official home for product information, signed Windows installer releases, and public non-sensitive product support.
 
 ## What Manager Board does
 
@@ -69,7 +69,9 @@ Automatic installation is off by default. Manager Board releases its protected w
 
 Use the [GitHub Releases page](https://github.com/Mike61704/Manager-Board-Release/releases) for signed installers and release notes. Do not download an installer renamed or re-hosted by an unrelated third party.
 
-See [RELEASES.md](RELEASES.md) for the public release contract, [SECURITY.md](SECURITY.md) for verification and reporting guidance, and [SUPPORT.md](SUPPORT.md) for installation and activation help.
+For ordinary product bugs, non-sensitive help, or feature suggestions, use the public [Manager Board Issues tracker](https://github.com/Mike61704/Manager-Board-Release/issues). Do not post sensitive business, employee, credential, activation, workspace, backup, vault, or organization information in a public issue.
+
+See [RELEASES.md](RELEASES.md) for the public release contract, [SECURITY.md](SECURITY.md) for verification and private security-reporting guidance, and [SUPPORT.md](SUPPORT.md) for installation, activation, and support guidance.
 
 ## Public repository boundary
 
