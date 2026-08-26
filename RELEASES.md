@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.2.4 — Local AI Code Integrity Hotfix**
+Current stable release: **v2.2.5 — Daily Work Scoring Reliability**
 
 ## Release contract
 
