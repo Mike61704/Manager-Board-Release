@@ -33,4 +33,8 @@ Activation is bound to the installation that generated the request. Generate a n
 
 ### Where should I report a problem?
 
-Use the private support channel provided with your license. Never post business data, activation files, credentials, backups, or diagnostics publicly.
+For ordinary product bugs, non-sensitive usage questions, and feature requests, use the public [Manager Board Issues tracker](https://github.com/Mike61704/Manager-Board-Release/issues). Choose the Bug report, Help request, or Feature request form so the report includes the information needed to review it.
+
+Because GitHub Issues are public, never post employee records, organization data, credentials, activation files or codes, workspace or vault data, backups, diagnostic bundles, private URLs, or other sensitive information.
+
+Use the private support channel provided with your license for activation or licensing problems, suspected security issues, or any situation that requires sharing sensitive information.
