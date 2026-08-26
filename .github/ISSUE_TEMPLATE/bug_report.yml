@@ -1,0 +1,115 @@
+name: Bug report
+description: Report a reproducible problem with a public Manager Board release
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Manager Board.
+
+        **Privacy reminder:** This is a public issue. Do not include employee records, organization data, workspace or vault files, backups, activation files or codes, credentials, private URLs, diagnostic bundles, or other sensitive information. Redact screenshots before attaching them.
+
+        For security issues, activation/licensing problems, or anything that requires sensitive information, use the private support channel provided with Manager Board instead of opening a public issue.
+
+  - type: input
+    id: version
+    attributes:
+      label: Manager Board version
+      description: You can find this under Settings → About / Version.
+      placeholder: "Example: 2.1.0"
+    validations:
+      required: true
+
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      placeholder: "Example: Windows 11 24H2"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area of Manager Board
+      options:
+        - Startup / activation
+        - Dashboard
+        - People / 1:1s
+        - Daily Work
+        - Follow-ups
+        - Projects / Workfront
+        - Manager Center
+        - Notes / Reflections
+        - Calendar
+        - Files / attachments
+        - Backup / restore / recovery
+        - Settings / appearance
+        - Local AI
+        - Updates / installer
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you were doing when it occurred.
+      placeholder: Tell us what you saw.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the smallest reliable sequence that reproduces the problem.
+      placeholder: |
+        1. Open ...
+        2. Click ...
+        3. Change ...
+        4. See ...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often does it happen?
+      options:
+        - Every time
+        - Often
+        - Sometimes
+        - Happened once
+        - Not sure
+    validations:
+      required: true
+
+  - type: textarea
+    id: troubleshooting
+    attributes:
+      label: Sanitized troubleshooting summary (optional)
+      description: If Manager Board generated a troubleshooting summary, paste only the privacy-safe summary. Do not paste raw logs, file paths, employee data, activation material, or diagnostic bundles.
+      render: text
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context or screenshots (optional)
+      description: Redact any business, employee, account, organization, activation, or other sensitive information before attaching screenshots.
+
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I have removed sensitive business, employee, credential, activation, workspace, backup, vault, and organization information from this public report.
+          required: true
