@@ -17,7 +17,7 @@ Manager Board brings everyday manager workflows together:
 - 📅 **Planning** — calendar views, time off, manager priorities, and current focus
 - 📊 **Projects and reporting** — projects, tasks, progress, exports, portfolio summaries, and optional Workfront connectivity
 - 🗂️ **Records and continuity** — files, archive tools, validated backups, restore points, and protected recovery
-- 🤖 **Optional Local AI** — private, on-device assistance with a separately managed compatible model; Manager Board works normally without it
+- 🤖 **Optional Local AI** — private, on-device text, image, and supported-file assistance with separately managed compatible model files; Manager Board works normally without it
 - ❓ **Built-in Help** — always-available offline guidance that opens to the screen or workflow you are using, with optional Local AI grounding for more conversational answers
 
 The application is designed to be organization-agnostic. Organizational names, teams, groups, forms, and connection details are configured by each licensed manager.
