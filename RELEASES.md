@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.5.3 — Compact Manager Center**
+Current stable release: **v2.5.4 — Recognition Tier Values**
 
 ## Release contract
 
