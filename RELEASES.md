@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.5.0 — Local AI File Analysis**
+Current stable release: **v2.5.1 — WorkTango Recognition**
 
 ## Release contract
 
