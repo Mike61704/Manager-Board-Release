@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.5.6 — Image Analysis Recovery**
+Current stable release: **v2.5.7 — Manager Work Attachment Reliability**
 
 ## Release contract
 
