@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.5.9 — AI-Assisted 1:1 Preparation**
+Current stable release: **v2.5.10 — Employee Plan Flexibility**
 
 ## Release contract
 
