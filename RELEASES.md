@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.5.10 — Employee Plan Flexibility**
+Current stable release: **v2.5.11 — Review Evidence Selection**
 
 ## Release contract
 
