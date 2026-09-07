@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.5.11 — Review Evidence Selection**
+Current stable release: **v2.6.0 — Reliability and Draft Recovery**
 
 ## Release contract
 
