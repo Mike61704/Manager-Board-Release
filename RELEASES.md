@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.6.1 — Drafts Settings and Help**
+Current stable release: **v2.6.2 — Settings Connection Repair**
 
 ## Release contract
 
