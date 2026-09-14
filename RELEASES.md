@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.7.3 — Project Exports and Workfront Assignments**
+Current stable release: **v2.8.0 — Existing Workfront Project Revisions**
 
 ## Release contract
 
