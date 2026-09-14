@@ -2,7 +2,7 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.7.1 — Workfront Intake Import Repair**
+Current stable release: **v2.7.2 — Workfront Intake Publishing**
 
 ## Release contract
 
