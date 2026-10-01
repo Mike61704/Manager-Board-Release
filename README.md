@@ -8,6 +8,8 @@ Manager Board is a local-first Windows desktop application built for managers wh
 
 > Manager Board keeps its source code private. This public repository is the official home for product information, signed Windows installer releases, and public non-sensitive product support.
 
+Current stable release: **[v2.9.4 — License Trust and Workfront Intake](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.9.4)**. Includes activation key diagnostics, owner-signed key rotation, clearer employee intake guidance, and browser sign-in retry fixes. Adobe Native authentication remains under investigation; Legacy Workfront sign-in remains the default.
+
 ## What Manager Board does
 
 Manager Board brings everyday manager workflows together:
@@ -43,6 +45,8 @@ Manager Board is activation-gated. A licensed installation requires a signed act
 - An activation file from another installation will not unlock the application.
 
 If you receive Manager Board from its publisher, you will also receive instructions for returning the generated request and importing the signed activation file.
+
+For key-related activation failures, open **License Security & Diagnostics** from activation to inspect trusted key IDs and fingerprints. If the publisher intentionally rotates a signing key, import their owner-signed `.mbkey` file and retry your device-bound activation. This window opens only licensing diagnostics; a valid activation is still required to open the Workspace.
 
 ## Secure application updates
 

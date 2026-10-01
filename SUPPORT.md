@@ -31,6 +31,10 @@ The application install directory is separate from Manager Board workspace and a
 
 Activation is bound to the installation that generated the request. Generate a new request on the target Windows installation and ask the publisher for a matching activation.
 
+### How do I investigate a license-key error?
+
+Open **License Security & Diagnostics** from the activation window to inspect the configured public-key IDs and fingerprints. Contact the publisher privately with the error. For an intentional key rotation, import the publisher's owner-signed `.mbkey` file, then retry the activation issued for this installation. Existing trusted keys remain available. A plain public-key PEM or rotation file alone does not unlock Manager Board.
+
 ### Where should I report a problem?
 
 For ordinary product bugs, non-sensitive usage questions, and feature requests, use the public [Manager Board Issues tracker](https://github.com/Mike61704/Manager-Board-Release/issues). Choose the Bug report, Help request, or Feature request form so the report includes the information needed to review it.

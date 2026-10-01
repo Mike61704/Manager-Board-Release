@@ -2,7 +2,9 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.8.0 — Existing Workfront Project Revisions**
+Current stable release: **v2.9.4 — License Trust and Workfront Intake**
+
+[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.9.4).
 
 ## Release contract
 
