@@ -8,7 +8,7 @@ Manager Board is a local-first Windows desktop application built for managers wh
 
 > Manager Board keeps its source code private. This public repository is the official home for product information, signed Windows installer releases, and public non-sensitive product support.
 
-Current stable release: **[v2.10.1 — Consolidated Production Readiness](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.10.1)**. Includes recognized Daily Work and certifications in Employee History and 1:1 AI, Adobe Native browser completion, read-only installed license security visibility, and safe Task # intake updates. Legacy Workfront sign-in remains available.
+Current stable release: **[v2.10.3 — Complete Wins and Reliable AI](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.10.3)**. Includes complete dated recognition bullets, background Local AI startup with its ready notification, and all three private 1:1 preparation fields with source-backed completeness.
 
 ## What Manager Board does
 
@@ -46,7 +46,7 @@ Manager Board is activation-gated. A licensed installation requires a signed act
 
 If you receive Manager Board from its publisher, you will also receive instructions for returning the generated request and importing the signed activation file.
 
-For key-related activation failures, open **License Security & Diagnostics** from activation to inspect trusted key IDs and fingerprints. If the publisher intentionally rotates a signing key, import their owner-signed `.mbkey` file and retry your device-bound activation. This window opens only licensing diagnostics; a valid activation is still required to open the Workspace.
+For key-related activation failures, open **License Security & Diagnostics** from activation to inspect trusted key IDs and fingerprints. Installed trust management is read-only. New verification keys are supplied through publisher-signed application updates; existing trusted keys and licenses remain supported. This window opens only licensing diagnostics; a valid activation is still required to open the Workspace.
 
 ## Secure application updates
 
