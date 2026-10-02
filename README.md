@@ -8,7 +8,7 @@ Manager Board is a local-first Windows desktop application built for managers wh
 
 > Manager Board keeps its source code private. This public repository is the official home for product information, signed Windows installer releases, and public non-sensitive product support.
 
-Current stable release: **[v2.9.4 — License Trust and Workfront Intake](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.9.4)**. Includes activation key diagnostics, owner-signed key rotation, clearer employee intake guidance, and browser sign-in retry fixes. Adobe Native authentication remains under investigation; Legacy Workfront sign-in remains the default.
+Current stable release: **[v2.10.1 — Consolidated Production Readiness](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.10.1)**. Includes recognized Daily Work and certifications in Employee History and 1:1 AI, Adobe Native browser completion, read-only installed license security visibility, and safe Task # intake updates. Legacy Workfront sign-in remains available.
 
 ## What Manager Board does
 
