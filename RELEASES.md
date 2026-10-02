@@ -2,9 +2,9 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.10.3 — Complete Wins and Reliable AI**
+Current stable release: **v2.11.0 — Employee Plans and Consolidated Workflows**
 
-[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.10.3).
+[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.11.0).
 
 ## Release contract
 
