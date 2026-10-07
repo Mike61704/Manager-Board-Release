@@ -2,9 +2,9 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.11.0 — Employee Plans and Consolidated Workflows**
+Current stable release: **v2.12.0 — Workfront Projects Reliability and Filters**
 
-[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.11.0).
+[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.12.0).
 
 ## Release contract
 
