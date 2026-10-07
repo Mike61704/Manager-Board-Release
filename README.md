@@ -8,7 +8,7 @@ Manager Board is a local-first Windows desktop application built for managers wh
 
 > Manager Board keeps its source code private. This public repository is the official home for product information, signed Windows installer releases, and public non-sensitive product support.
 
-Current stable release: **[v2.12.0 — Workfront Projects Reliability and Filters](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.12.0)**. Includes deterministic Workfront assignee matching, recovery of unpublished task imports, multi-select Team filtering and custom team priority rankings. Existing Projects, exports, themes, Employee Plans and Local AI remain available.
+Current stable release: **[v2.13.0 — Project Teams, Priority and Task Hierarchy](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.13.0)**. Includes Connections Home Team filtering with offline configured-team visibility, reviewed Team Priority editing, and Workfront task numbers with parent/subtask ordering. Existing Projects, exports, themes, Employee Plans and Local AI remain available.
 
 ## What Manager Board does
 
