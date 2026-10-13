@@ -8,7 +8,7 @@ Manager Board is a local-first Windows desktop application built for managers wh
 
 > Manager Board keeps its source code private. This public repository is the official home for product information, signed Windows installer releases, and public non-sensitive product support.
 
-Current stable release: **[v2.13.1 — Saved Sorting and Overview Recovery](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.13.1)**. Remembers Project and task sorting with each saved workspace and restores Overview PNG closed-year totals while preserving Team/Area/Search scope. Existing workflows, exports, themes, Employee Plans and Local AI remain available.
+Current stable release: **[v2.13.2 — Workfront Closed Project Counts](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.13.2)**. Includes completed assignment-linked projects in Workfront Overview counts and Team-filtered summaries, with the existing active-work and portfolio behavior preserved.
 
 ## What Manager Board does
 

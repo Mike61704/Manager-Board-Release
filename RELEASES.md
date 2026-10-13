@@ -2,9 +2,9 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.13.1 — Saved Sorting and Overview Recovery**
+Current stable release: **v2.13.2 — Workfront Closed Project Counts**
 
-[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.13.1).
+[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.13.2).
 
 ## Release contract
 
