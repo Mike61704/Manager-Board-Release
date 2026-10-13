@@ -2,9 +2,9 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.13.0 — Project Teams, Priority and Task Hierarchy**
+Current stable release: **v2.13.1 — Saved Sorting and Overview Recovery**
 
-[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.13.0).
+[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.13.1).
 
 ## Release contract
 
