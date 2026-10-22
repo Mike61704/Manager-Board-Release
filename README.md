@@ -8,7 +8,7 @@ Manager Board is a local-first Windows desktop application built for managers wh
 
 > Manager Board keeps its source code private. This public repository is the official home for product information, signed Windows installer releases, and public non-sensitive product support.
 
-Current stable release: **[v2.14.0 — Project Insights and Workfront Request Backlog](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.14.0)**. Adds richer initiative answers, saved resizable project/task columns, request-based Workfront project creation and separate Request Backlog visibility.
+Current stable release: **[v2.14.1 — Routed Workfront Request Backlog](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.14.1)**. Restores backlog visibility for requests routed to another project and adds synchronization details to explain results.
 
 ## What Manager Board does
 
