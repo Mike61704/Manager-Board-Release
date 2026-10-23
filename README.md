@@ -8,7 +8,7 @@ Manager Board is a local-first Windows desktop application built for managers wh
 
 > Manager Board keeps its source code private. This public repository is the official home for product information, signed Windows installer releases, and public non-sensitive product support.
 
-Current stable release: **[v2.16.0 — Employee Onboarding](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.16.0)**. Adds reusable onboarding templates, saved employee checklists and clear, professional team exports.
+Current stable release: **[v2.17.0 — Onboarding Sections and Workfront Publishing](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.17.0)**. Adds onboarding sections and sub-checks, richer team exports, and repairs Portfolio HTML filters and Workfront task scheduling.
 
 ## What Manager Board does
 
