@@ -2,9 +2,9 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.15.1 — Workfront Conversion Recovery**
+Current stable release: **v2.16.0 — Employee Onboarding**
 
-[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.15.1).
+[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.16.0).
 
 ## Release contract
 

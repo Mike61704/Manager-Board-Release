@@ -8,13 +8,13 @@ Manager Board is a local-first Windows desktop application built for managers wh
 
 > Manager Board keeps its source code private. This public repository is the official home for product information, signed Windows installer releases, and public non-sensitive product support.
 
-Current stable release: **[v2.15.1 — Workfront Conversion Recovery](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.15.1)**. Repairs confirmation of completed Workfront conversions, restores task publishing after synchronization and improves review dialog spacing.
+Current stable release: **[v2.16.0 — Employee Onboarding](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.16.0)**. Adds reusable onboarding templates, saved employee checklists and clear, professional team exports.
 
 ## What Manager Board does
 
 Manager Board brings everyday manager workflows together:
 
-- 👥 **People and 1:1s** — employee profiles, preparation, commitments, development plans, recognition, and history
+- 👥 **People and 1:1s** — employee profiles, onboarding checklists and templates, preparation, commitments, development plans, recognition, and history
 - ✅ **Daily work and follow-through** — work receipts, notes, reflections, follow-ups, recurring items, and reminders
 - 📅 **Planning** — calendar views, time off, manager priorities, and current focus
 - 📊 **Projects and reporting** — projects, tasks, progress, exports, portfolio summaries, and optional Workfront connectivity
