@@ -2,9 +2,9 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.18.0 — Workfront Project Shelving**
+Current stable release: **v2.18.1 — Shelving Planning Context and Progress**
 
-[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.18.0).
+[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.18.1).
 
 ## Release contract
 
