@@ -2,9 +2,9 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.17.0 — Onboarding Sections and Workfront Publishing**
+Current stable release: **v2.18.0 — Workfront Project Shelving**
 
-[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.17.0).
+[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.18.0).
 
 ## Release contract
 
