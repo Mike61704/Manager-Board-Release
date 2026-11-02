@@ -8,7 +8,7 @@ Manager Board is a local-first Windows desktop application built for managers wh
 
 > Manager Board keeps its source code private. This public repository is the official home for product information, signed Windows installer releases, and public non-sensitive product support.
 
-Current stable release: **[v2.19.0 — Employee Career Development](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.19.0)**. Adds role-first career plans, customizable manager-approved templates, and evidence-based progress tracking while preserving the existing Employee Plans workflows.
+Current stable release: **[v2.19.1 — Custom Career Template Assignment](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.19.1)**. Choose approved custom templates across role-name differences, review applicability deliberately, and start employee assignment from Settings using the same career-plan wizard.
 
 ## What Manager Board does
 
