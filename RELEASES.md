@@ -2,9 +2,9 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.19.1 — Custom Career Template Assignment**
+Current stable release: **v2.20.0 — Flexible Repeats and Calendar Notices**
 
-[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.19.1).
+[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.20.0).
 
 ## Release contract
 
