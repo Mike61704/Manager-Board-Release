@@ -2,9 +2,9 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.20.0 — Flexible Repeats and Calendar Notices**
+Current stable release: **v2.20.1 — Bulk Edit and Recurring Work Fixes**
 
-[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.20.0).
+[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.20.1).
 
 ## Release contract
 

@@ -8,7 +8,7 @@ Manager Board is a local-first Windows desktop application built for managers wh
 
 > Manager Board keeps its source code private. This public repository is the official home for product information, signed Windows installer releases, and public non-sensitive product support.
 
-Current stable release: **[v2.20.0 — Flexible Repeats and Calendar Notices](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.20.0)**. Repeat Manager Work daily, on weekdays or with custom schedules, and keep calendar-only recurring notices with saved drafts and clear series controls.
+Current stable release: **[v2.20.1 — Bulk Edit and Recurring Work Fixes](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.20.1)**. Complete bulk edits with deep attachment paths, open saved instructions from recurring work reminders, and keep long links contained inside their cards.
 
 ## What Manager Board does
 
