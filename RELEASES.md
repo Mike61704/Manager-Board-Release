@@ -2,9 +2,9 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.20.7 — Recommendation Outline Reliability**
+Current stable release: **v2.20.8 — CPU Recommendation Context Capacity**
 
-[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.20.7).
+[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.20.8).
 
 ## Release contract
 
