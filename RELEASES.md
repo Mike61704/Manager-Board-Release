@@ -2,9 +2,9 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.20.4 — Employee Plans History and Recommendations**
+Current stable release: **v2.20.5 — Recommendation Reliability and Historical Plan Cleanup**
 
-[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.20.4).
+[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.20.5).
 
 ## Release contract
 

@@ -8,7 +8,7 @@ Manager Board is a local-first Windows desktop application built for managers wh
 
 > Manager Board keeps its source code private. This public repository is the official home for product information, signed Windows installer releases, and public non-sensitive product support.
 
-Current stable release: **[v2.20.4 — Employee Plans History and Recommendations](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.20.4)**. Historical reviews, editable recommendations and leadership-ready HTML/PDF exports with or without supporting evidence.
+Current stable release: **[v2.20.5 — Recommendation Reliability and Historical Plan Cleanup](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.20.5)**. Reliable evidence-linked recommendations and confirmed historical test-plan cleanup.
 
 ## What Manager Board does
 
