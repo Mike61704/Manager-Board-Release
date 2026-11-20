@@ -2,9 +2,9 @@
 
 This repository is the official stable Windows release channel for Manager Board.
 
-Current stable release: **v2.20.5 — Recommendation Reliability and Historical Plan Cleanup**
+Current stable release: **v2.20.6 — Evidence-Based Promotion Justifications**
 
-[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.20.5).
+[Release notes and signed installer](https://github.com/Mike61704/Manager-Board-Release/releases/tag/v2.20.6).
 
 ## Release contract
 
